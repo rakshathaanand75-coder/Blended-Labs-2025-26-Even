@@ -114,7 +114,7 @@ I configured a user data script to automatically install Apache and deploy a web
 
 ### Screenshot 2: EC2 Instance Running
 
-<img width="1916" height="902" alt="Screenshot 2026-10-22 141139" src="https://github.com/user-attachments/assets/cca23720-680d-4b9b-9116-692eac1a7fd2" />
+<img width="1534" height="862" alt="image" src="https://github.com/user-attachments/assets/73b97ea3-dfc3-4722-862d-f4e585f2a8b4" />
 
 
 ---
